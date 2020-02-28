@@ -165,6 +165,6 @@ In this tutorial we went over how to set up and run MRIQC on a BIDS dataset cont
 Additional MRIQC links
 **********************
 
-If you've finished this tutorial and find yourself craving more, check out `Saren Seeley's BIDS, MRIQC, and fMRIPrep Tutorial <https://rpubs.com/sarenseeley/bids-fmriprep-mriqc>`__. 
+If you've finished this tutorial and find yourself craving more, check out `Saren Seeley's BIDS, MRIQC, and fMRIPrep Tutorial <https://rpubs.com/sarenseeley/bids-fmriprep-mriqc>`__.
 
 
